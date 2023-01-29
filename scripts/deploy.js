@@ -1,8 +1,7 @@
 const ethers = require("ethers");
-require("dotenv").config();
 
 async function main() {
-	const url = process.env.ALCHEMY_TESTNET_RPC_URL;
+	const url = process.env.ALCHEMY_TESTNET_RPC_URL || "";
 
 	const provider = new ethers.providers.JsonRpcProvider(url);
 
