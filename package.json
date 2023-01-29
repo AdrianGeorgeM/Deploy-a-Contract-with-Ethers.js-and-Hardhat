@@ -1,0 +1,23 @@
+{
+  "name": "deploy-a-contract-with-ethers.js-and-hardhat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AdrianGeorgeM@github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat/issues"
+  },
+  "homepage": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.6"
+  }
+}
