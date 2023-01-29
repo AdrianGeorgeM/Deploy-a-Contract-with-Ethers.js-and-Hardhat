@@ -1,4 +1,5 @@
 const ethers = require("ethers");
+// Faucet address: 0x57A60737469b3Fb67d9Fa2DC7500b11850651bd0
 
 async function main() {
 	const url = process.env.ALCHEMY_TESTNET_RPC_URL || "";

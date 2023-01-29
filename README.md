@@ -1,13 +1,8 @@
 # Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Newly-deployed contract address as terminal output - nice!
 
-Try running some of the following tasks:
+<!-- Faucet address: 0x88B55f4c84FF0FA4f41B100E084db8C5162cE95D -->
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+Copy-paste that address into https://goerli.etherscan.io/ and check out my
+contract in live deployment form!
