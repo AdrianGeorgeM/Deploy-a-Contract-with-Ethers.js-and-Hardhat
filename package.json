@@ -1,32 +1,31 @@
 {
-  "name": "deploy-a-contract-with-ethers.js-and-hardhat",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://AdrianGeorgeM@github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat/issues"
-  },
-  "homepage": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat#readme",
-  "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
-    "hardhat": "^2.12.6"
-  },
-  "dependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.2.2",
-    "@nomiclabs/hardhat-waffle": "^2.0.3",
-    "chai": "^4.3.7",
-    "dotenv": "^16.0.3",
-    "ethereum-waffle": "^3.4.4",
-    "ethers": "^5.7.2"
-  }
+	"name": "deploy-a-contract-with-ethers.js-and-hardhat",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://AdrianGeorgeM@github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat/issues"
+	},
+	"homepage": "https://github.com/AdrianGeorgeM/Deploy-a-Contract-with-Ethers.js-and-Hardhat#readme",
+	"devDependencies": {
+		"@nomicfoundation/hardhat-chai-matchers": "^1.0.5",
+		"@nomicfoundation/hardhat-toolbox": "^2.0.1",
+		"hardhat": "^2.12.6"
+	},
+	"dependencies": {
+		"@nomiclabs/hardhat-ethers": "^2.2.2",
+		"chai": "^4.3.7",
+		"dotenv": "^16.0.3",
+		"ethers": "^5.7.2"
+	}
 }
